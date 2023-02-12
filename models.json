@@ -51,5 +51,23 @@
             "sadness": 3,
             "surprise": 4
         }
+    },
+    {     
+   "name": "not_sponsored",
+        "description": "Thunder",
+        "url": "https://cdn.jsdelivr.net/gh/Eikanya/Live2d-model/%E5%B0%91%E5%A5%B3%E5%92%96%E5%95%A1%E6%9E%AA%20girls%20cafe%20gun/0629upd__l2d_362.u/0629upd__l2d_362.u.model3.json",
+        "kScale": 0.0011,
+        "kXOffset": 1500,
+        "kYOffset": -150,
+        "idleMotionGroupName": "idle",
+        "emotionMap": {
+            "neutral": 1,
+            "anger": 2,
+            "disgust": 1,
+            "fear": 4,
+            "joy": 6,
+            "sadness": 1,
+            "surprise": 4 
+        }
     }
 ]
